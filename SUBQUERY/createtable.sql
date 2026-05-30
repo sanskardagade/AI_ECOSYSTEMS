@@ -41,7 +41,6 @@ INSERT INTO exam_scores (student_id, subject, score, exam_month) VALUES
 (6, 'Chemistry', 95, 'March'),
 (7, 'Mathematics', 74, 'April'),
 (8, 'Physics', 81, 'April');
-
 -- Projects Table
 INSERT INTO projects (student_id, title, marks) VALUES
 (1, 'Library Management System', 89),
@@ -51,4 +50,4 @@ INSERT INTO projects (student_id, title, marks) VALUES
 (5, 'Inventory Management', 72),
 (6, 'AI Chatbot', 98),
 (7, 'Hospital Management System', 80),
-(8, 'E-Commerce Website', 87);
+(8, 'E-Commerce Website', 87); 
